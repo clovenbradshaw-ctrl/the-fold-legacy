@@ -1,3 +1,8 @@
+> ## ⚠️ LEGACY — frozen, no longer maintained
+> This repository is the **old copy** of `the-fold` and is kept for history only.
+> The Fold now lives under the `scores-patch-points` account: [scores-patch-points/the-fold](https://github.com/scores-patch-points/the-fold) and [scores-patch-points/holodeck](https://github.com/scores-patch-points/holodeck).
+> Do not file issues or send changes here.
+
 # The Fold
 
 A reading that runs for months without degrading, on a machine nothing leaves.
